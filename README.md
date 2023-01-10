@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AliNikseresht</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinikseresht&label=Profile%20views&color=0e75b6&style=flat" alt="alinikseresht" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNikseresht](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **javascript,react,sass,bootstrap,cc3,html5,**
+- 💬 Ask me about **javascript, react, sass, bootstrap, cc3, html5,**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
