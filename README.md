@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNikseresht](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **javascript, react, sass, bootstrap, cc3, html5,**
+- 💬 Ask me about **javascript, cc3, html5,**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
