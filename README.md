@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliNikseresht](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **Javascript, Bootstrap, Tailwind, Html5, Css**
+- 💬 Ask me about **Javascript, Bootstrap, Tailwind, Html5, Css, Sass**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
