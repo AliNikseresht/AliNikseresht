@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Nikseresht</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-![skatter-programmer](https://user-images.githubusercontent.com/120955025/236414445-86bc8c0a-c82a-43f2-a1b8-1400bde2c8d9.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinikseresht&label=Profile%20views&color=0e75b6&style=flat" alt="alinikseresht" /> </p>
 
