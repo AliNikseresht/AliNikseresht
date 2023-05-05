@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Nikseresht</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
+<img align="center" src="![skatter-programmer](https://user-images.githubusercontent.com/120955025/236528411-692ea13e-c3f7-4887-b151-a3442a64d3d4.gif)
+" alt="akbarmkalani"  width="450" height="250" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinikseresht&label=Profile%20views&color=0e75b6&style=flat" alt="alinikseresht" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinikseresht" alt="alinikseresht" /></a> </p>
