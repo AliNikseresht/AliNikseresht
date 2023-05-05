@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Nikseresht</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538156-d3e4f001-742e-4389-897a-32cf1d33103f.gif"/>
+<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236528411-692ea13e-c3f7-4887-b151-a3442a64d3d4.gif"/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinikseresht" alt="alinikseresht" /></a> </p>
 
