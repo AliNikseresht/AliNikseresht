@@ -5,7 +5,7 @@
 <h3 align="left">✅ MY IDEA :</h3>
 <h4 align="center">"Everyone should learn computer programming because programming teaches you how to think."
 </h4> 
-<small align="right">Steve Jobs</small>
+<h3 align="right">Steve Jobs</h3>
 
 <p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538649-3ec87fd6-5799-4d4d-b1d1-5ba817b11de1.gif"/>
 
