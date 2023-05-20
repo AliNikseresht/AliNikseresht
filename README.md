@@ -8,7 +8,7 @@
 
 <p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538649-3ec87fd6-5799-4d4d-b1d1-5ba817b11de1.gif"/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinikseresht" alt="alinikseresht" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinikseresht" alt="alinikseresht" /></a> </p>
 
 - 🌱 I’m currently learning **FrontEndTopics**
 
