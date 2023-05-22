@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **Javascript, React, API, PWA, Bootstrap, TailwindCss, Html5, Css**
+- 💬 Ask me about **Javascript, React, API, PWA, Bootstrap, TailwindCss, Html5, Css3**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
