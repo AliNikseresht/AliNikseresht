@@ -34,5 +34,4 @@
 
 
 
-
-[![Anurag's GitHub stats](https://github.com/AliNikseresht)](https://github.com/AliNikseresht)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/AliNikseresht&show_icons=true&theme=gotham)
