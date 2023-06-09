@@ -66,15 +66,6 @@
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
       <br>Github
     </td>
-        <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
-            <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
  </tr>
 </table>
 </div>
