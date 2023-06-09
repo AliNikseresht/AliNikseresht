@@ -110,5 +110,3 @@
 <a href="https://dribbble.com/aliniikseresht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aliniikseresht" height="30" width="40" /></a>
 </p>
 
-<a href="https://stackoverflow.com/users/22034942/ali-nikseresht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aliniikseresht" height="30" width="40" /></a>
-</p>
