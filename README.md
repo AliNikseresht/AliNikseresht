@@ -31,7 +31,7 @@
       <br>React
     </td>
         <td align="center" width="85">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94662%2Fnextjs&psig=AOvVaw2xjqadrfBXRG9uFEw80eFk&ust=1690198287367000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCJD7o7bdpIADFQAAAAAdAAAAABAE" alt="icon" width="65" height="65" />
+<img src="https%3A%2F%2Ficonduck.com%2Ficons%2F94662%2Fnextjs&psig=AOvVaw2xjqadrfBXRG9uFEw80eFk&ust=1690198287367000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCJD7o7bdpIADFQAAAAAdAAAAABAE" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
