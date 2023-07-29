@@ -15,58 +15,27 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **Javascript, React, API, PWA, Bootstrap, TailwindCss, Html5, Css3**
+- 💬 Ask me about **Javascript, React, Next, API, TailwindCss, Bootstrap, Html5, Css3**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
 - 🏙  MY **3D VERSION** OF MY GITHUB IN 2023 : [Watch Now](https://honzaap.github.io/GithubCity/?name=AliNikseresht&year=2023)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-                  <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>TailwindCss
-    </td>
-    <td align="center" width="85">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-        <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-        <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
-      <br>Github
-    </td>
- </tr>
-</table>
+<div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
+<img align="left" alt="Next Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="React Js" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
+<img align="left" alt="Material Ui" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
+<img align="left" alt="bootstrap" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap" />
+<img align="left" alt="sass" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/sass-icon.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
+<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/github-icon.svg" />
+<img align="left" alt="css" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
+
 </div>
 
 
