@@ -1,15 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AliNikseresht&label=Profile%20views&color=C70039&style=flat" alt="AliNikseresht" /> </p>
-<h1 align="center">Hi 🤩 Welcome To My World , I'm Ali Nikseresht</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-
-<h3 align="left">✅ Steve Jobs :</h3>
-<h4 align="center">"Everyone should learn computer programming because programming teaches you how to think."
-</h4> 
-
-<p align="center"><img width="400px" height="300px" src="https://user-images.githubusercontent.com/120955025/236538649-3ec87fd6-5799-4d4d-b1d1-5ba817b11de1.gif"/></p>
-
-
+<h1 align="left">Hello I'm Ali Nikseresht</h1>
+<h4 align="left">A passionate frontend developer</h4>
 
 - 🌱 I’m currently learning **FrontEndTopics**
 
@@ -21,7 +13,7 @@
 
 - 🏙  MY **3D VERSION** OF MY GITHUB IN 2023 : [Watch Now](https://honzaap.github.io/GithubCity/?name=AliNikseresht&year=2023)
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left" style="margin-top:100px;">Languages and Tools :</h3>
 
 <div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
 <img align="left" alt="Next Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
@@ -35,37 +27,15 @@
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/github-icon.svg" />
 <img align="left" alt="css" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
 <img align="left" alt="html" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
-
 </div>
 
+<p align="center" style="margin-top:20px">
 
-<p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliNikseresht&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-
-
-<p align="center">
-
-<a href="https://github.com/AliNikseresht?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AliNikseresht&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/AliNikseresht?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AliNikseresht&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="margin-top:10px;"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
 </p>
 
-
-
-
-
-<p align="center">
-<a href="https://gist.github.com/AliNikseresht"><img src="https://profile-counter.glitch.me/{AliNikseresht/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="margin-top:10px;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alinikseresht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alinikseresht" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alinikseresht-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nikseresht-966560258/" height="30" width="40" /></a>
