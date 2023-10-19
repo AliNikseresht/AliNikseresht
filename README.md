@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/AliNikseresht)
 
-- 💬 Ask me about **Javascript, React, Next, API, TailwindCss, Bootstrap, Html5, Css3**
+- 💬 Ask me about **Javascript, React, Next, API, Material UI, TailwindCss, Bootstrap, Html5, Css3**
 
 - 📫 How to reach me **alinksht@gmail.com**
 
