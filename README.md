@@ -24,8 +24,8 @@
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" />
 </div>
 
-<h3 align="left" style="margin-top:10px;">Connect with me:</h3>
 <p align="left">
+<h3 align="left" style="margin-top:10px;">Connect with me:</h3>
 <a href="https://twitter.com/alinikseresht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alinikseresht" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alinikseresht-web/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-nikseresht-966560258/" height="30" width="40" /></a>
 <a href="https://instagram.com/alinikseresht_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinikseresht_web" height="30" width="40" /></a>
