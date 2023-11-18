@@ -21,7 +21,9 @@
 <img align="left" alt="Material Ui" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" />
-
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+</div>
 </div>
 
 <p align="center" style="margin-top:20px">
