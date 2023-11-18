@@ -12,7 +12,7 @@
 
 <h3 align="left" style="margin-top:100px;">Languages and Tools :</h3>
 
-<div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
+<div style="background-color: lightgray;display: flex;justify-content: space-center;">
 <div align="center">
 <div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
 <img align="left" alt="Next Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
