@@ -19,7 +19,6 @@
 <img align="left" alt="React Js" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
 <img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/next-icon.svg" />
 <img align="left" alt="Material Ui" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" />
