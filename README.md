@@ -18,7 +18,7 @@
   <a href="https://www.youtube.com/channel/UCECebAN8e0diJPRAZS_mSTg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/alinikseresht_web/" target="_blank">
+  <a href="https://www.instagram.com/nikweb.1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://alinksht@gmail.com" target="_blank">
